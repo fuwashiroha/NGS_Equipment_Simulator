@@ -1,7 +1,7 @@
-<img width="1660" height="1519" alt="image" src="https://github.com/user-attachments/assets/a8fd485a-349c-4623-a742-fbf5f00cd081" /># NGS配装计算器
+# NGS配装模拟器
 
 [日本語](README.md) | 简体中文
-<img width="1660" height="1519" alt="image" src="https://github.com/user-attachments/assets/28986213-6eba-4fed-b160-312b4fbf3719" />
+<img width="1668" height="1528" alt="image" src="https://github.com/user-attachments/assets/a63db715-1429-4107-855c-b9b89e2d1d94" />
 
 用于配置 PSO2 NGS 装备、比较单次命中期望伤害的离线网页工具。
 
