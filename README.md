@@ -1,8 +1,7 @@
 # NGS装備シミュレーター
 
 日本語 | [简体中文](README_CN.md)
-<img width="1664" height="1519" alt="image" src="https://github.com/user-attachments/assets/c02428d7-eae6-48c5-b01d-0767979abf02" />
-
+<img width="1932" height="1782" alt="image" src="https://github.com/user-attachments/assets/8b7bf05a-6082-446b-a864-f2c90a7da2e6" />
 PSO2 NGSの装備構成と1ヒットのダメージ期待値を比較する、オフライン対応ツールです。
 
 ## 主な機能
