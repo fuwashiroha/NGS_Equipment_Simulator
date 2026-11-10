@@ -1,0 +1,11 @@
+MNS数据更新 · 2026-11-10
+数值来源：https://pso2ngs.swiki.jp/index.php?%E7%89%B9%E6%AE%8A%E8%83%BD%E5%8A%9B%2F%E4%B8%80%E8%A6%A7%E6%AF%94%E8%BC%83%E8%A1%A8
+名称与SG奖池来源：https://pso2roboarks.jp/ngs/sg-itemselect-oct26
+swiki未单独列出MNS；采用对应MN的数值，S版本作为不同名能力，成功率100%。
+补充名单共6项，不自动扩展其他MN。
+艾米斯·哈鲁法终曲/MNS / エミスハルフィニリアMNS
+埃尔加·威严绝望/MNS / エルガギガス・マエスティMNS
+埃尔加·老练守护者/MNS / エルガドレド・キーパMNS
+埃尔加·角斗士之魂/MNS / エルガグラディエ・ソールMNS
+特尔菲亚·主宰/MNS / テルフィア・ドミナMNS
+佩塔德莱尔/MNS / ペタドライエルMNS
