@@ -4,7 +4,8 @@
 
 PSO2 NGSの装備構成と、1ヒットのダメージ期待値を比較するオフラインツールです。
 
-![シミュレーター画面](screenshots/ja.png)
+<img width="1893" height="1651" alt="image" src="https://github.com/user-attachments/assets/c52933fb-ef66-407b-8819-2cb20f8d3a78" />
+
 
 ## 主な機能
 
