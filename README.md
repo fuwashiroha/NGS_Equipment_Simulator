@@ -24,6 +24,6 @@ PSO2 NGSの装備構成と、1ヒットのダメージ期待値を比較する�
 
 ## データと画像
 
-[PSO2 NGS 攻略 Wiki](https://pso2ngs.swiki.jp/) を参照しています。出典は [アイコン出典](图标来源.txt)、[/MNSデータ](MNS数据来源.txt)、[リング効果](戒指效果来源.txt) を参照してください。画像はHTMLに含まれています。
+[PSO2 NGS 攻略 Wiki](https://pso2ngs.swiki.jp/) を参照しています。画像はHTMLに含まれています。
 
 非公式ツールです。ゲーム内容・画像 © SEGA。

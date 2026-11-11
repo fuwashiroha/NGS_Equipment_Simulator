@@ -24,6 +24,6 @@
 
 ## 数据与图片
 
-参考 [PSO2 NGS 攻略 Wiki](https://pso2ngs.swiki.jp/)，来源见 [图标来源](图标来源.txt) 、[/MNS 数据来源](MNS数据来源.txt) 和 [戒指效果来源](戒指效果来源.txt)。图标已嵌入网页，可离线使用。
+参考 [PSO2 NGS 攻略 Wiki](https://pso2ngs.swiki.jp/)。图标已嵌入网页，可离线使用。
 
 本项目为非官方工具，游戏内容与图片版权归 SEGA 所有。
