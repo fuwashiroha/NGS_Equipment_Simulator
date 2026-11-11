@@ -4,7 +4,8 @@
 
 用于配置 PSO2 NGS 装备、比较单次命中期望伤害的离线工具。
 
-![模拟器界面](screenshots/zh-CN.png)
+<img width="1892" height="1640" alt="image" src="https://github.com/user-attachments/assets/e075dc2a-bf2e-419f-8097-79b8e3226c79" />
+
 
 ## 主要功能
 
